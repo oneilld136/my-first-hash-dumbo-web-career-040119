@@ -1,6 +1,7 @@
 def my_hash
   my_hash=hash.new
-  pets={"cat"=>"Maru","dog"=>"Pluto"}
+  my_hash
+  pets={"cat" => "Maru","dog" => "Pluto"}
 end
 
 
